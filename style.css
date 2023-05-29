@@ -9,8 +9,8 @@
 
 body {
     width: 100%;
-    background-color: grey;
-    color: white;
+    background-color: whitesmoke;
+    color: black;
 }
 
 /* header heading section */
@@ -87,5 +87,5 @@ body {
 
 /* favourites offcanvus */
 #favourites-body {
-    background-color: #212529;
+    background-color: white;
 }
