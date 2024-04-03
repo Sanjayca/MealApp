@@ -1,4 +1,5 @@
 # Meal App
+Hosted Link https://sanjayca.github.io/MealApp/
 
 A web application for storing and searching meals. This app allows users to search for meals, add them to their favorites, view detailed information about each meal, and manage their favorite meals list.
 
